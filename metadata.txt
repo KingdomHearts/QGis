@@ -1,0 +1,6 @@
+[general]
+name=aerius-plugin-test
+qgisMinimumVersion=3.22
+version=1.0.0
+author=Testgebruiker
+description=Testplugin voor QGIS
