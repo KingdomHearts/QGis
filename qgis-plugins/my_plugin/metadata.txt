@@ -1,0 +1,6 @@
+[general]
+name=tau_net_calc
+version=1.0
+description=A sample QGIS plugin
+author=Your Name
+email=your.email@example.com
