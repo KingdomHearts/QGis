@@ -13,7 +13,7 @@
     <author>Jouw Naam of Organisatie</author>
     <homepage>https://lycens.nl</homepage>
     <file_name>aerius-plugin-test.zip</file_name>
-    <download_url>https://qisplugins.blob.core.windows.net/aerius-plugin/aerius-plugin-test.zip</download_url>
+    <download_url>https://github.com/KingdomHearts/QGis/blob/main/aerius-plugin-test.zip</download_url>
     <tags>test, qgis, plugin, aerius</tags>
     <experimental>false</experimental>
     <deprecated>false</deprecated>
