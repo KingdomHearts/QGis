@@ -1,0 +1,23 @@
+<plugins>
+<plugin>
+<name>aerius-plugin-test</name>
+<version>1.0.0</version>
+<description>
+<![CDATA[ Testplugin voor QGIS via Azure Blob Storage. ]]>
+</description>
+<about>
+<![CDATA[ Deze plugin is bedoeld om de interne pluginrepository op te zetten en te testen. ]]>
+</about>
+<version_available>1.0.0</version_available>
+<author>Jouw Naam of Organisatie</author>
+<homepage>https://lycens.nl</homepage>
+<file_name>aerius-plugin-test.zip</file_name>
+<download_url>https://github.com/KingdomHearts/QGis/qgis-plugins/raw/main/aerius-plugin/aerius-plugin-test.zip</download_url>
+<tags>test, qgis, plugin, aerius</tags>
+<experimental>false</experimental>
+<deprecated>false</deprecated>
+<qgis_minimum_version>3.22</qgis_minimum_version>
+<qgis_maximum_version>3.99</qgis_maximum_version>
+<category>Plugins</category>
+</plugin>
+</plugins>
