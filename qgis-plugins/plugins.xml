@@ -12,7 +12,7 @@
 <author>Jouw Naam of Organisatie</author>
 <homepage>https://lycens.nl</homepage>
 <file_name>tau_net_calc-5.34.1.zip</file_name>
-<download_url>https://github.com/KingdomHearts/QGis/raw/main/qgis-plugins/tau_net_calc-5.34.1.zip</download_url>
+<download_url>https://github.com/KingdomHearts/QGis/raw/main/qgis-plugins/my_plugin/tau_net_calc-5.34.1.zip</download_url>
 <tags>test, qgis, plugin, aerius</tags>
 <experimental>false</experimental>
 <deprecated>false</deprecated>
