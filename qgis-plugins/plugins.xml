@@ -1,15 +1,11 @@
 <plugins>
-<plugin>
-<name>aerius-plugin-test</name>
+<plugin id="tau_net_calc" version="1.0.0">
+<name>tau_net_calc</name>
 <version>1.0.0</version>
-<description>
-<![CDATA[ Testplugin voor QGIS via Azure Blob Storage. ]]>
-</description>
-<about>
-<![CDATA[ Deze plugin is bedoeld om de interne pluginrepository op te zetten en te testen. ]]>
-</about>
-<version_available>1.0.0</version_available>
+<description><![CDATA[Testplugin voor QGIS via Azure Blob Storage.]]></description>
+<about><![CDATA[Deze plugin is bedoeld om de interne pluginrepository op te zetten en te testen.]]></about>
 <author>Jouw Naam of Organisatie</author>
+<email>your.email@example.com</email>
 <homepage>https://lycens.nl</homepage>
 <file_name>tau_net_calc-5.34.1.zip</file_name>
 <download_url>https://github.com/KingdomHearts/QGis/raw/refs/heads/main/qgis-plugins/my_plugin/tau_net_calc-5.34.1.zip</download_url>
